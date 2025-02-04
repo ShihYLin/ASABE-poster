@@ -8,4 +8,4 @@ Disease identification and prediction using deep learning (DL) models is increas
 
 2023_ASABE_poster_Gaby.pdf - Poster
 
-README.md - Project documentation (this file).
+README.md - Poster abstract (this file).
